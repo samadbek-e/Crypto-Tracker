@@ -41,7 +41,7 @@ function App() {
           console.error(error);
         }}
       >
-        Hello
+        Click
       </button>
     </div>
   );
